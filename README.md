@@ -1,3 +1,3 @@
 ## I’m doing gitlab first time!
 
-### confirming username
+### confirming fixing typo in email
